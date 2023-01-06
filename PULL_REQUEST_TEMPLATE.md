@@ -24,7 +24,7 @@
 
 ## Checklist
 
-- [ ] My code follows the style guidelines of this project
+- [ ] My code follows the style guidelines of this project (pass rubocop checks)
 
 - [ ] I have performed a self-review of my own code
 
@@ -37,6 +37,12 @@
 - [ ] I have added tests that prove my fix is effective or that my feature works
 
 - [ ] New and existing unit tests pass locally with my changes
+
+- [ ] My changes affect the current process done by other teams (such as requiring eCom/Buyer to re-apply the logic)
+
+- [ ] My changes require the Admin to prepare the data before release (such as adding new config for Birthday gifts)
+
+- [ ] My changes have more than 50% of test coverage
 
 ## Screenshots (if appropriate)
 
