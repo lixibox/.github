@@ -44,6 +44,14 @@
 
 - [ ] My changes have more than 50% of test coverage
 
+## Deployment checklist
+
+- [ ] Require release the same-time with FE
+
+- [ ] Run DB Migration before restart Rails app
+
+- [ ] Add new permissions (new features)
+
 ## Screenshots (if appropriate)
 
 <!-- Additional context -->
