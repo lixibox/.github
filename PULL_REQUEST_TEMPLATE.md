@@ -48,7 +48,7 @@
 
 - [ ] Require release the same-time with FE
 
-- [ ] Run DB Migration before restart Rails app
+- [ ] Run DB Migration before restart backend server
 
 - [ ] Add new permissions (new features)
 
